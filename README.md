@@ -18,10 +18,10 @@ Program to find the exponentiation of a number.
 Developed by: S.Sameer
 RegisterNumber: 21003881
 */
-~~
+```
 def fun(k):
    
-print("Exponentiation of a given number:",k**2)
+    print("Exponentiation of a given number:",k**2)
 
 k=int(input())
 
