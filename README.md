@@ -16,8 +16,7 @@ To write a program to find the exponentiation of a number.
 Program to find the exponentiation of a number.
 Developed by: S.Sameer
 RegisterNumber: 21003881
-*/
-```
+
 def fun(k):
    
     print("Exponentiation of a given number:",k**2)
@@ -28,7 +27,7 @@ fun(k)
 ~~~
 
 ## Output:
-![output](https://github.com/Shaik-sameer-AIML/EXPONENTIATION/blob/main/exponential%20no..JPG?raw=true)
+![output](https://github.com/Shaik-sameer-AIML/EXPONENTIATION/blob/main/expo.JPG?raw=true)
 
 
 ## Result:
