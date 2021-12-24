@@ -12,8 +12,7 @@ To write a program to find the exponentiation of a number.
 2. Use exponentiation operator to find the exponentiation of a number.
 
 ## Program:
-```
-/*
+~~~
 Program to find the exponentiation of a number.
 Developed by: S.Sameer
 RegisterNumber: 21003881
@@ -26,7 +25,7 @@ def fun(k):
 k=int(input())
 
 fun(k)
-
+~~~
 
 ## Output:
 ![output](https://github.com/Shaik-sameer-AIML/EXPONENTIATION/blob/main/exponential%20no..JPG?raw=true)
